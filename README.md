@@ -10,3 +10,5 @@ Hi there 👋
 - 💬 大家可以查看我的技术博客 https://blog.csdn.net/qq_65337539?spm=1000.2115.3001.5343
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcyyds)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcyyds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
